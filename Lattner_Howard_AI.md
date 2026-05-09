@@ -109,7 +109,7 @@ Lesson: your tools should keep you close to the thing you are building.
 
 ## 8. Jeremy’s new AI-tooling idea: shared context
 
-Jeremy describes a principle behind Answer.AI tools like Solvent and Shell Sage:
+Jeremy describes a principle behind Answer.AI tools like Solveit and Shell Sage:
 
 > The AI should see exactly what the human sees, and the human should see exactly what the AI sees.
 
